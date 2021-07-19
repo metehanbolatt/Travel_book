@@ -1,0 +1,2 @@
+rootProject.name = "KotlinLandmarkViewBindingCustomized"
+include ':app'
